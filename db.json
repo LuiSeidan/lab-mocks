@@ -39,16 +39,6 @@
           "imageUrl": "/paracetamol.PNG",
           "availability": "available",
           "icon": "xxx.png"
-        },
-        {
-          "id": "4",
-          "name": "Paracetamol 500 mg",
-          "price": 3000,
-          "brandName": "Paracetamol",
-          "seller": "Laboratorio",
-          "imageUrl": "/paracetamol.PNG",
-          "availability": "available",
-          "icon": "xxx.png"
         }
       ]
     },
