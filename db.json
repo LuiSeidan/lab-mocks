@@ -16,7 +16,7 @@
           "price": 1990,
           "brandName": "Paracetamol",
           "seller": "Laboratorio",
-          "imageUrl": "/paracetamol.PNG",
+          "imageUrl": "/pc-7.PNG",
           "availability": "available",
           "icon": "xxx.png"
         },
@@ -26,7 +26,7 @@
           "price": 3000,
           "brandName": "Paracetamol",
           "seller": "Laboratorio",
-          "imageUrl": "/paracetamol.PNG",
+          "imageUrl": "/pc-5.PNG",
           "availability": "available",
           "icon": "xxx.png"
         },
@@ -36,7 +36,7 @@
           "price": 4000,
           "brandName": "Paracetamol",
           "seller": "Laboratorio",
-          "imageUrl": "/paracetamol.PNG",
+          "imageUrl": "/pc-6.PNG",
           "availability": "available",
           "icon": "xxx.png"
         }
@@ -58,7 +58,7 @@
           "price": 2990,
           "brandName": "Losartán",
           "seller": "Laboratorio",
-          "imageUrl": "/losartan.PNG",
+          "imageUrl": "/pc-7.PNG",
           "availability": "available",
           "icon": "xxx.png"
         },
@@ -68,7 +68,7 @@
           "price": 4100,
           "brandName": "Losartán",
           "seller": "Laboratorio",
-          "imageUrl": "/losartan.PNG",
+          "imageUrl": "/pc-5.PNG",
           "availability": "available",
           "icon": "xxx.png"
         },
@@ -78,7 +78,7 @@
           "price": 4200,
           "brandName": "Losartán",
           "seller": "Laboratorio",
-          "imageUrl": "/losartan.PNG",
+          "imageUrl": "/pc-6.PNG",
           "availability": "available",
           "icon": "xxx.png"
         }
