@@ -1,0 +1,115 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Paracetamol 500 mg",
+      "price": 1990,
+      "brandName": "Paracetamol",
+      "seller": "Profar",
+      "imageUrl": "/paracetamol.PNG",
+      "detailUrl": "/paracetamol",
+      "availability": "available",
+      "competence": [
+        {
+          "id": "1",
+          "name": "Paracetamol 500 mg",
+          "price": 1990,
+          "brandName": "Paracetamol",
+          "seller": "Laboratorio",
+          "imageUrl": "/paracetamol.PNG",
+          "availability": "available",
+          "icon": "xxx.png"
+        },
+        {
+          "id": "2",
+          "name": "Paracetamol 500 mg",
+          "price": 3000,
+          "brandName": "Paracetamol",
+          "seller": "Laboratorio",
+          "imageUrl": "/paracetamol.PNG",
+          "availability": "available",
+          "icon": "xxx.png"
+        },
+        {
+          "id": "3",
+          "name": "Paracetamol 500 mg",
+          "price": 4000,
+          "brandName": "Paracetamol",
+          "seller": "Laboratorio",
+          "imageUrl": "/paracetamol.PNG",
+          "availability": "available",
+          "icon": "xxx.png"
+        },
+        {
+          "id": "4",
+          "name": "Paracetamol 500 mg",
+          "price": 3000,
+          "brandName": "Paracetamol",
+          "seller": "Laboratorio",
+          "imageUrl": "/paracetamol.PNG",
+          "availability": "available",
+          "icon": "xxx.png"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Losartán 50 mg",
+      "price": 2990,
+      "brandName": "Losartán",
+      "seller": "Profar",
+      "imageUrl": "/losartan.PNG",
+      "detailUrl": "/losartan",
+      "availability": "available",
+      "competence": [
+        {
+          "id": "5",
+          "name": "Losartán 50 mg",
+          "price": 2990,
+          "brandName": "Losartán",
+          "seller": "Laboratorio",
+          "imageUrl": "/losartan.PNG",
+          "availability": "available",
+          "icon": "xxx.png"
+        },
+        {
+          "id": "6",
+          "name": "Losartán 50 mg",
+          "price": 4100,
+          "brandName": "Losartán",
+          "seller": "Laboratorio",
+          "imageUrl": "/losartan.PNG",
+          "availability": "available",
+          "icon": "xxx.png"
+        },
+        {
+          "id": "7",
+          "name": "Losartán 50 mg",
+          "price": 4200,
+          "brandName": "Losartán",
+          "seller": "Laboratorio",
+          "imageUrl": "/losartan.PNG",
+          "availability": "available",
+          "icon": "xxx.png"
+        }
+      ]
+    }
+  ],
+  "prescription": {
+    "items": [
+      {
+        "productname": "Rosvel 10mg"
+      }
+    ],
+    "recipeupload": "https://3249159351270049543",
+    "centername": ""
+  },
+  "cart": {
+    "status": "ok",
+    "message": ""
+  },
+  "deletePrescription": {
+    "status": "ok",
+    "message": ""
+  }
+}
